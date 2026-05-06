@@ -1,11 +1,11 @@
 # WFGY Ecosystem Scan
 
-Generated at: Tue May  5 05:36:56 UTC 2026
+Generated at: Wed May  6 05:51:13 UTC 2026
 
 ## Repo snapshot
 
 File count:
-1714
+1717
 
 Top directories:
 ADOPTERS.md
@@ -17,6 +17,7 @@ CODE_OF_CONDUCT.md
 CONTRIBUTING.md
 ECOSYSTEM_MAP.md
 EVIDENCE_TIMELINE.md
+EasterEggs
 ISSUE_POLICY.md
 I_am_not_lizardman
 LICENSE
