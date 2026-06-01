@@ -1,7 +1,8 @@
 > [!NOTE]
 > **WFGY 5.0 is now centered on the Fifth-Dimension Engine.**
 >
-> Polaris remains the active public route of WFGY 5.0. Earlier Polaris staged-rollout materials, public evidence packages, and portable protocol components are preserved below as evidence and foundation layers.
+> Polaris remains the active public route of WFGY 5.0.
+> Earlier Polaris staged-rollout materials, public evidence packages, portable protocol components, and legacy transition notes are preserved below as evidence and foundation layers.
 >
 > [Download Engine](./engine/fifth-dimension-engine/)  
 > [Shoot the Seven Millennium Problems](./demos/seven-millennium-problems/)  
@@ -80,7 +81,7 @@ Ask AI:
 
 ```text
 shoot 50 century-level problems
-````
+```
 
 Or use:
 
@@ -100,22 +101,22 @@ Mathematics. Physics. AI. Biology. Climate. Consciousness. Economics. Civilizati
 
 ## High-Strangeness Math Lab
 
-Give the engine two strange themes.
+Give the engine two strange themes.  
 It turns them into a theorem-shaped research kernel.
 
-| Input                          | Possible kernel                                   |
-| ------------------------------ | ------------------------------------------------- |
-| Death + AI                     | Digital exit operator, hell-state boundary        |
-| Dream + Physics                | Dream-observer collapse, reality drift functional |
-| Meme + Epidemic                | Narrative infection number, meme mutation bound   |
-| Love + Source Poisoning        | Attachment trust graph, false-closure lemma       |
-| JudgmentDay + Tension Universe | Seven-Trumpet grand challenge system              |
+| Input | Possible kernel |
+|---|---|
+| Death + AI | Digital exit operator, hell-state boundary |
+| Dream + Physics | Dream-observer collapse, reality drift functional |
+| Meme + Epidemic | Narrative infection number, meme mutation bound |
+| Love + Source Poisoning | Attachment trust graph, false-closure lemma |
+| JudgmentDay + Tension Universe | Seven-Trumpet grand challenge system |
 
-From myth to model.
-From symbol to structure.
+From myth to model.  
+From symbol to structure.  
 From strange idea to research kernel.
 
-[Mix Your Own Themes](./demos/high-strangeness-math-lab/prompts/)
+[Mix Your Own Themes](./demos/high-strangeness-math-lab/prompts/)  
 [Open JudgmentDay Seven-Trumpet Demo](./demos/high-strangeness-math-lab/judgmentday-seven-trumpet/)
 
 ---
@@ -124,39 +125,39 @@ From strange idea to research kernel.
 
 ## Seven Everyday Shoot Modes
 
-World-scale problems can be shot.
-High-strangeness themes can be shot.
+World-scale problems can be shot.  
+High-strangeness themes can be shot.  
 Your everyday problem can be shot too.
 
-| Mode                              | Use it for                                  |
-| --------------------------------- | ------------------------------------------- |
-| Life Decision Shoot               | quitting, moving, major choices             |
-| Relationship / Human Signal Shoot | conversations, behavior, hidden tension     |
-| Work / Career Shoot               | bottlenecks, career drift, stuck loops      |
-| Product / Startup Shoot           | positioning, audience, launch route         |
-| Research / Learning Shoot         | turning ideas into research kernels         |
-| Engineering / Debugging Shoot     | root cause, system debt, repair path        |
-| Meme / Cat / Absurd Shoot         | small, weird, funny targets made structured |
+| Mode | Use it for |
+|---|---|
+| Life Decision Shoot | quitting, moving, major choices |
+| Relationship / Human Signal Shoot | conversations, behavior, hidden tension |
+| Work / Career Shoot | bottlenecks, career drift, stuck loops |
+| Product / Startup Shoot | positioning, audience, launch route |
+| Research / Learning Shoot | turning ideas into research kernels |
+| Engineering / Debugging Shoot | root cause, system debt, repair path |
+| Meme / Cat / Absurd Shoot | small, weird, funny targets made structured |
 
 **Before you decide, shoot first.**
 
-[Choose an Everyday Mode](./demos/everyday-shoot-modes/)
+[Choose an Everyday Mode](./demos/everyday-shoot-modes/)  
 [Shoot My Own Problem](./demos/everyday-shoot-modes/prompts/)
 
 ---
 
 # Quick Links
 
-| I want to...                           | Go here                                                         |
-| -------------------------------------- | --------------------------------------------------------------- |
-| Download the engine                    | [Engine](./engine/fifth-dimension-engine/)                      |
-| Shoot the Seven Millennium Problems    | [Seven Millennium Problems](./demos/seven-millennium-problems/) |
-| Inspect Native Lean no-sorry materials | [Native Lean](./demos/seven-millennium-problems/native-lean/)   |
-| Shoot 50 century-level problems        | [Frontier-50](./demos/frontier-50/)                             |
-| Mix strange themes                     | [High-Strangeness Lab](./demos/high-strangeness-math-lab/)      |
-| Shoot everyday problems                | [Everyday Shoot](./demos/everyday-shoot-modes/)                 |
-| Compile a hard ChatGPT goal first      | [Polaris Goal Compiler](./protocols/goal-compiler/)             |
-| Inspect earlier public evidence        | [Polaris Experiments](./experiments/)                           |
+| I want to... | Go here |
+|---|---|
+| Download the engine | [Engine](./engine/fifth-dimension-engine/) |
+| Shoot the Seven Millennium Problems | [Seven Millennium Problems](./demos/seven-millennium-problems/) |
+| Inspect Native Lean no-sorry materials | [Native Lean](./demos/seven-millennium-problems/native-lean/) |
+| Shoot 50 century-level problems | [Frontier-50](./demos/frontier-50/) |
+| Mix strange themes | [High-Strangeness Lab](./demos/high-strangeness-math-lab/) |
+| Shoot everyday problems | [Everyday Shoot](./demos/everyday-shoot-modes/) |
+| Compile a hard ChatGPT goal first | [Polaris Goal Compiler](./protocols/goal-compiler/) |
+| Inspect earlier public evidence | [Polaris Experiments](./experiments/) |
 
 ---
 
@@ -166,7 +167,7 @@ WFGY 5.0 lifts a target into a higher problem-coordinate.
 
 It can turn a theorem, mystery, life decision, product idea, strange theme, engineering failure, or meme into a structured research object.
 
-The output is not just an answer.
+The output is not just an answer.  
 It is a route that can be inspected, attacked, expanded, and tested.
 
 ---
@@ -179,7 +180,7 @@ If you are using ChatGPT for a hard task, start here:
 
 Use it before large goals, theorem work, long projects, research planning, or complex creative construction.
 
-Compile the goal first.
+Compile the goal first.  
 Then shoot.
 
 ---
@@ -192,28 +193,28 @@ Earlier Polaris public evidence remains available here:
 
 The current public evidence layer includes downloadable experiment packages with raw outputs, parsed outputs, verdict files, token accounting, audit records, and SHA256 integrity records.
 
-| Branch    | What it tests                                                      | Current public result      |
-| --------- | ------------------------------------------------------------------ | -------------------------- |
-| **PP01**  | 320 case OSK evidence run and token efficiency behavior            | `OSK_MVP_FINAL_PASS`       |
-| **PP02A** | 120 case T4 evidence branch with seal pass and near pass reference | `SEAL_PASS`                |
-| **PP02B** | 120 case SP math oriented evaluation                               | `T4_MAIN_CERTIFICATE_PASS` |
-| **PP02C** | coding repair and contract validation with sandbox checks          | `FULL_SANDBOX_STRONG_PASS` |
+| Branch | What it tests | Current public result |
+|---|---|---|
+| **PP01** | 320 case OSK evidence run and token efficiency behavior | `OSK_MVP_FINAL_PASS` |
+| **PP02A** | 120 case T4 evidence branch with seal pass and near pass reference | `SEAL_PASS` |
+| **PP02B** | 120 case SP math oriented evaluation | `T4_MAIN_CERTIFICATE_PASS` |
+| **PP02C** | coding repair and contract validation with sandbox checks | `FULL_SANDBOX_STRONG_PASS` |
 
 Current public evidence scale:
 
-| Evidence item               |    Count |
-| --------------------------- | -------: |
-| Main evidence packages      |        4 |
-| Main branch test cases      |      680 |
-| Main branch primary outputs |     3600 |
-| Raw outputs                 | included |
-| Parsed outputs              | included |
-| Verdict files               | included |
-| Token accounting            | included |
-| Audit records               | included |
-| SHA256 records              | included |
+| Evidence item | Count |
+|---|---:|
+| Main evidence packages | 4 |
+| Main branch test cases | 680 |
+| Main branch primary outputs | 3600 |
+| Raw outputs | included |
+| Parsed outputs | included |
+| Verdict files | included |
+| Token accounting | included |
+| Audit records | included |
+| SHA256 records | included |
 
-These materials are not the main product surface of WFGY 5.0.
+These materials are not the main product surface of WFGY 5.0.  
 They remain the public evidence layer behind the staged Polaris rollout.
 
 <details>
@@ -229,12 +230,12 @@ Main public evidence bundle:
 
 Individual public packages:
 
-| Package                                                                   | Branch | Download                                                                                                    |
-| ------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------- |
-| `wfgy5_polaris_protocol_pp01_t4_osk_320case_public_evidence_20260503.zip` | PP01   | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp01_t4_osk_320case_public_evidence_20260503.zip) |
-| `wfgy5_polaris_protocol_pp02a_t4_120case_public_evidence_20260503.zip`    | PP02A  | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp02a_t4_120case_public_evidence_20260503.zip)    |
-| `wfgy5_polaris_protocol_pp02b_sp_120case_public_evidence_20260503.zip`    | PP02B  | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp02b_sp_120case_public_evidence_20260503.zip)    |
-| `wfgy5_polaris_protocol_pp02c_t4_120case_public_evidence_20260503.zip`    | PP02C  | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp02c_t4_120case_public_evidence_20260503.zip)    |
+| Package | Branch | Download |
+|---|---|---|
+| `wfgy5_polaris_protocol_pp01_t4_osk_320case_public_evidence_20260503.zip` | PP01 | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp01_t4_osk_320case_public_evidence_20260503.zip) |
+| `wfgy5_polaris_protocol_pp02a_t4_120case_public_evidence_20260503.zip` | PP02A | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp02a_t4_120case_public_evidence_20260503.zip) |
+| `wfgy5_polaris_protocol_pp02b_sp_120case_public_evidence_20260503.zip` | PP02B | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp02b_sp_120case_public_evidence_20260503.zip) |
+| `wfgy5_polaris_protocol_pp02c_t4_120case_public_evidence_20260503.zip` | PP02C | [Download](./experiments/downloads/wfgy5_polaris_protocol_pp02c_t4_120case_public_evidence_20260503.zip) |
 
 If an individual package is not visible yet, use the bundle package first. The experiment index can be updated as files are uploaded.
 
@@ -247,14 +248,14 @@ WFGY 5.0 Polaris originally moved through a staged functional rollout.
 
 The original single-date release plan was expanded because WFGY 5.0 grew into multiple public layers:
 
-* public experiment evidence
-* portable protocol components
-* future reproduction workflows
-* runtime structures
-* deeper engine materials
-* mathematical spine materials
-* human-readable explanations
-* engineering-readable records
+- public experiment evidence
+- portable protocol components
+- future reproduction workflows
+- runtime structures
+- deeper engine materials
+- mathematical spine materials
+- human-readable explanations
+- engineering-readable records
 
 The earlier public material was released in batches so that useful parts could be inspected before the deeper engine layer was opened.
 
@@ -274,7 +275,7 @@ Earlier WFGY 5.0 materials may still exist under `Avatar/`.
 
 Those materials are preserved for continuity and will not be removed during the Polaris transition.
 
-Polaris is the active public route of WFGY 5.0.
+Polaris is the active public route of WFGY 5.0.  
 The Fifth-Dimension Engine is the current main product surface.
 
 ---
@@ -297,8 +298,8 @@ The point is that the same Fifth-Dimension Engine logic can shoot the seven agai
 
 No.
 
-The engine is public.
-The prompt is public.
+The engine is public.  
+The prompt is public.  
 Run it yourself.
 
 ## Why is Native Lean no-sorry mentioned?
@@ -319,7 +320,7 @@ Use Polaris Goal Compiler first:
 
 [Polaris Goal Compiler](./protocols/goal-compiler/README.md)
 
-Compile the goal.
+Compile the goal.  
 Then shoot.
 
 ## What is the simplest way to try it?
@@ -340,8 +341,8 @@ Use WFGY 5.0 Fifth-Dimension Engine to simultaneously shoot the seven Millennium
 
 # Final Line
 
-Same engine.
-Same logic.
+Same engine.  
+Same logic.  
 Seven Millennium Problems, shot together.
 
 Then shoot your own world.
